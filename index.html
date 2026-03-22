@@ -76,9 +76,52 @@
   <div class="container is-max-desktop">
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
-        <h2 class="title is-3">Demo Video</h2>
+        <h2 class="title is-3">Video Demonstrations</h2>
+        <div class="content has-text-justified">
+          <p>
+            We provide two supplementary videos demonstrating AerialVLA's performance in unconstrained 3D environments. The user interface layout visually breaks down the complete end-to-end perception-action loop:
+          </p>
+          <ul>
+            <li><strong>Top:</strong> Real-time text prompt containing the fuzzy directional hint (highlighted in red) and the target description.</li>
+            <li><strong>Bottom-Right:</strong> The drone's visual observation, formatted as a vertical mosaic of the front and down camera views.</li>
+            <li><strong>Center:</strong> The model's raw output token control signals <code>&lt;dx, dz, yaw&gt;</code>, alongside the optional <code>LAND</code> command.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" style="padding-top: 0;">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h3 class="title is-4">Demo 1: Step-by-Step Inference</h3>
+        <div class="content has-text-justified">
+          <p>
+            This demonstration follows the standard asynchronous evaluation mode adopted in the TravelUAV benchmark. It showcases the agent's baseline capability to perform active visual grounding and spatial reasoning via a step-by-step inference process.
+          </p>
+        </div>
         <div class="video-container">
-          <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe src="https://youtu.be/3FWZQA6bfGg?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h3 class="title is-4">Demo 2: Real-Time Continuous Control</h3>
+        <div class="content has-text-justified">
+          <p>
+            To demonstrate AerialVLA's capability for real-time continuous control, we altered the simulator environment to operate in a continuous flight mode without inference pauses. This video illustrates the policy's robustness and agility when processing dynamic inputs in real time, serving as a critical proof-of-concept for future physical deployments on edge computing devices.
+          </p>
+        </div>
+        <div class="video-container">
+          <iframe src="https://youtu.be/A3hxORERY9c?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </div>
