@@ -7,11 +7,26 @@
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
   <style>
     .publication-title { font-family: 'Google Sans', sans-serif; font-weight: 700; }
     .author-block { margin-bottom: 10px; }
     .hero-body { padding: 3rem 1.5rem; }
+    /* 保证 YouTube 视频在任何屏幕下都保持 16:9 比例 */
+    .video-container {
+      position: relative;
+      padding-bottom: 56.25%; /* 16:9 */
+      height: 0;
+      overflow: hidden;
+    }
+    .video-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
   </style>
 </head>
 <body>
@@ -38,7 +53,7 @@
           <div class="column has-text-centered">
             <div class="publication-links">
               <span class="link-block">
-                <a href="https://arxiv.org/abs/2603.XXXXX" class="external-link button is-normal is-rounded is-dark">
+                <a href="https://arxiv.org/abs/2603.14363" class="external-link button is-normal is-rounded is-dark">
                   <span class="icon"><i class="ai ai-arxiv"></i></span>
                   <span>arXiv</span>
                 </a>
@@ -62,10 +77,8 @@
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
         <h2 class="title is-3">Demo Video</h2>
-        <div class="publication-video">
-          <video poster="" id="steer" autoplay controls muted loop height="100%">
-            <source src="docs/assets/demo_video.mp4" type="video/mp4">
-          </video>
+        <div class="video-container">
+          <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID?rel=0&showinfo=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </div>
@@ -95,11 +108,9 @@
   author={Xu, Peng and Deng, Zhengnan and Deng, Jiayan and Gu, Zonghua and Wan, Shaohua},
   journal={arXiv preprint arXiv:2603.14363},
   year={2026}
-}
 }</code></pre>
   </div>
 </section>
-
 
 </body>
 </html>
