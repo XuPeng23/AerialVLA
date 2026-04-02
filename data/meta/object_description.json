@@ -1,0 +1,378 @@
+[
+    {
+        "object_name": "SM_African_elephant",
+        "object_desc": "Brown elephant"
+    },
+    {
+        "object_name": "SM_camel",
+        "object_desc": "yellow camel"
+    },
+    {
+        "object_name": "SM_Cape_Buffalo",
+        "object_desc": "black cow"
+    },
+    {
+        "object_name": "SM_domestic_pig",
+        "object_desc": "pink pig"
+    },
+    {
+        "object_name": "SM_Domestic_sheep",
+        "object_desc": "white sheep"
+    },
+    {
+        "object_name": "SM_horse_skeleton",
+        "object_desc": "Brown horse"
+    },
+    {
+        "object_name": "SM_Indian_elephant",
+        "object_desc": "Brown elephant"
+    },
+    {
+        "object_name": "SM_leopard",
+        "object_desc": "yellow leopard"
+    },
+    {
+        "object_name": "SM_Longhorn_cattle",
+        "object_desc": "yellow cow"
+    },
+    {
+        "object_name": "SM_Longhorn_cattle_V2",
+        "object_desc": "white cow"
+    },
+    {
+        "object_name": "SM_mud_pig",
+        "object_desc": "Brown pig"
+    },
+    {
+        "object_name": "SM_rhino",
+        "object_desc": "gray rhino"
+    },
+    {
+        "object_name": "SM_Scotland_cattle",
+        "object_desc": "yellow cattle"
+    },
+    {
+        "object_name": "SM_tiger",
+        "object_desc": "yellow tiger"
+    },
+    {
+        "object_name": "SM_zebra",
+        "object_desc": "black and white zebra"
+    },
+    {
+        "object_name": "SM_Couple02",
+        "object_desc": "man"
+    },
+    {
+        "object_name": "SM_Couple04",
+        "object_desc": "man"
+    },
+    {
+        "object_name": "SM_Couple13",
+        "object_desc": "man"
+    },
+    {
+        "object_name": "SM_Dog01",
+        "object_desc": "black dog"
+    },
+    {
+        "object_name": "SM_Dog02",
+        "object_desc": "Brown dog"
+    },
+    {
+        "object_name": "SM_Dog03",
+        "object_desc": "white dog"
+    },
+    {
+        "object_name": "SM_Man01",
+        "object_desc": "man"
+    },
+    {
+        "object_name": "SM_Man02",
+        "object_desc": "man"
+    },
+    {
+        "object_name": "SM_Man10",
+        "object_desc": "man"
+    },
+    {
+        "object_name": "SM_Man17",
+        "object_desc": "man"
+    },
+    {
+        "object_name": "SM_Man32",
+        "object_desc": "man"
+    },
+    {
+        "object_name": "SM_Man33",
+        "object_desc": "man"
+    },
+    {
+        "object_name": "SM_Man36",
+        "object_desc": "man"
+    },
+    {
+        "object_name": "SM_Man39",
+        "object_desc": "man"
+    },
+    {
+        "object_name": "SM_Man42",
+        "object_desc": "man"
+    },
+    {
+        "object_name": "SM_Man54",
+        "object_desc": "man"
+    },
+    {
+        "object_name": "SM_Woman04",
+        "object_desc": "woman"
+    },
+    {
+        "object_name": "SM_Woman27",
+        "object_desc": "woman"
+    },
+    {
+        "object_name": "SM_Woman44",
+        "object_desc": "woman"
+    },
+    {
+        "object_name": "SM_Woman47",
+        "object_desc": "woman"
+    },
+    {
+        "object_name": "SM_Woman51",
+        "object_desc": "woman"
+    },
+    {
+        "object_name": "SM_Woman52",
+        "object_desc": "woman"
+    },
+    {
+        "object_name": "SM_Woman53",
+        "object_desc": "woman"
+    },
+    {
+        "object_name": "SM_AudiA2",
+        "object_desc": " blue car"
+    },
+    {
+        "object_name": "SM_EtronParked",
+        "object_desc": "purple car"
+    },
+    {
+        "object_name": "SM_AudiTT",
+        "object_desc": "red car"
+    },
+    {
+        "object_name": "SM_VolkswagenBeetle",
+        "object_desc": "Brown car"
+    },
+    {
+        "object_name": "SM_BMWGrandTourer",
+        "object_desc": "blue car"
+    },
+    {
+        "object_name": "SM_BMWIsetta",
+        "object_desc": "blue car"
+    },
+    {
+        "object_name": "SM_ChevroletImpala",
+        "object_desc": "red car"
+    },
+    {
+        "object_name": "SM_Citroen_C3",
+        "object_desc": "green car"
+    },
+    {
+        "object_name": "SM_Cybertruck",
+        "object_desc": "black car"
+    },
+    {
+        "object_name": "SM_Charger_parked",
+        "object_desc": "red car"
+    },
+    {
+        "object_name": "SM_SeatLeon",
+        "object_desc": "yellow car"
+    },
+    {
+        "object_name": "SM_LincolnMkz2017_prop",
+        "object_desc": "black car"
+    },
+    {
+        "object_name": "SM_Lincoln2020Parked",
+        "object_desc": "black car"
+    },
+    {
+        "object_name": "SM_MiniCooperS",
+        "object_desc": "white car"
+    },
+    {
+        "object_name": "SM_Mustang_prop",
+        "object_desc": "red car"
+    },
+    {
+        "object_name": "SM_NissanMicra",
+        "object_desc": "blue car"
+    },
+    {
+        "object_name": "SM_NissanPatrolST",
+        "object_desc": "yellow car"
+    },
+    {
+        "object_name": "SM_ChargerParked",
+        "object_desc": "red car"
+    },
+    {
+        "object_name": "SM_FordCrown_parked",
+        "object_desc": "yellow car"
+    },
+    {
+        "object_name": "SM_LincolnParked",
+        "object_desc": "black car"
+    },
+    {
+        "object_name": "SM_Mini2021_parked",
+        "object_desc": "red car"
+    },
+    {
+        "object_name": "SM_NissanPatrol2021_parked",
+        "object_desc": "red car"
+    },
+    {
+        "object_name": "SM_TeslaM3_parked",
+        "object_desc": "black car"
+    },
+    {
+        "object_name": "SM_VolkswagenT2_2021_Parked",
+        "object_desc": "blue and white car"
+    },
+    {
+        "object_name": "SM_Tazzari",
+        "object_desc": "white car"
+    },
+    {
+        "object_name": "SM_Table_Round",
+        "object_desc": "white table"
+    },
+    {
+        "object_name": "SM_StreetBarrier",
+        "object_desc": "Orange StreetBarrier"
+    },
+    {
+        "object_name": "SM_TrafficCones_01",
+        "object_desc": "TrafficCones"
+    },
+    {
+        "object_name": "SM_WarningAccident",
+        "object_desc": "Warning sign"
+    },
+    {
+        "object_name": "SM_WarningConstruction",
+        "object_desc": "WarningConstruction"
+    },
+    {
+        "object_name": "SM_hayBale",
+        "object_desc": "haybale"
+    },
+    {
+        "object_name": "SM_PlasticChair",
+        "object_desc": "white chair"
+    },
+    {
+        "object_name": "SM_PlasticTable",
+        "object_desc": "umbrella table"
+    },
+    {
+        "object_name": "SM_Table",
+        "object_desc": "white table"
+    },
+    {
+        "object_name": "SM_ShoppingBag",
+        "object_desc": "green shopping bag"
+    },
+    {
+        "object_name": "SM_ShoppingTrolley",
+        "object_desc": "red shopping trolly"
+    },
+    {
+        "object_name": "SM_TravelCase",
+        "object_desc": "yellow travel case"
+    },
+    {
+        "object_name": "SM_Bin",
+        "object_desc": "green bin"
+    },
+    {
+        "object_name": "SM_TrasdhBag",
+        "object_desc": "black trash bag"
+    },
+    {
+        "object_name": "SM_TrashCan01",
+        "object_desc": "white trash can"
+    },
+    {
+        "object_name": "SM_TrashCan03",
+        "object_desc": "white trash can"
+    },
+    {
+        "object_name": "SM_Harley",
+        "object_desc": "purple motorcycle"
+    },
+    {
+        "object_name": "SM_Kawasaki",
+        "object_desc": "green motorcycle"
+    },
+    {
+        "object_name": "SM_Vespa",
+        "object_desc": "red motorcycle"
+    },
+    {
+        "object_name": "SM_Yamaha",
+        "object_desc": "blue motorcycle"
+    },
+    {
+        "object_name": "SM_FireHdrant",
+        "object_desc": "red FireHdrant"
+    },
+    {
+        "object_name": "SM_MailBox",
+        "object_desc": "blue mailbox"
+    },
+    {
+        "object_name": "SM_AmbulanceParked",
+        "object_desc": "ambulance"
+    },
+    {
+        "object_name": "SM_CarlaCola",
+        "object_desc": "red truck"
+    },
+    {
+        "object_name": "SM_FiretruckParked",
+        "object_desc": "red firetruck"
+    },
+    {
+        "object_name": "SM_Truck",
+        "object_desc": "white truck"
+    },
+    {
+        "object_name": "SM_Tent_01",
+        "object_desc": "green tent"
+    },
+    {
+        "object_name": "SM_Tent_02",
+        "object_desc": "white tent"
+    },
+    {
+        "object_name": "SM_Tent_03",
+        "object_desc": "yellow tent"
+    },
+    {
+        "object_name": "SM_Tent_04",
+        "object_desc": "green tent"
+    },
+    {
+        "object_name": "SM_RoadBike",
+        "object_desc": "road bike"
+    }
+]
