@@ -118,6 +118,12 @@ We are continuously working on improving AerialVLA and pushing it towards real-w
 - [ ] Release the training code and curated trainset.
 - [ ] Hardware Deployment: Deploy AerialVLA on real-world UAVs for physical testing.
 
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=XuPeng23/AerialVLA&type=Date)](https://star-history.com/#XuPeng23/AerialVLA&Date)
+
+
 ## 📄 License
 
 This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for more details.
