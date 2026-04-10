@@ -52,6 +52,13 @@ pip install -r requirements.txt
 AerialVLA uses the Unreal Engine-based AirSim simulator and the dataset provided by the TravelUAV benchmark. You do not need to install AirSim separately; simply download the compiled environment binaries.
 
 1.  Follow the [TravelUAV Official Documentation](https://github.com/prince687028/TravelUAV/tree/main) to download the dataset (`dataset_raw`) and the simulation environments (`envs`).
+
+> **⚠️ Important Data Preprocessing Step:**
+> The evaluation script relies on `merged_data.json`, which is not included in the raw download. You MUST generate it using the tool from the TravelUAV repository. Inside the cloned TravelUAV directory, run:
+> ```bash
+> python tools/generate_merged_json.py --root_dir ./dataset_raw
+> ```
+
 2.  The `data/` directory contains the evaluation JSON files. We have split the original test cases by map to facilitate granular, per-map performance analysis, while **strictly adhering to the original TravelUAV validation splits**.
 
 
