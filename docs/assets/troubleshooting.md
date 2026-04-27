@@ -16,7 +16,7 @@ pip uninstall msgpack-python msgpack msgpack-rpc-python airsim tornado -y
 # 2. Reinstall with strict versions and the fixed RPC library
 pip install tornado==4.5.3
 # Download the zip file from our repository and install it
-pip install path/to/your/msgpack-rpc-python-fix-msgpack-dep.zip
+pip install msgpack-rpc-python-fix-msgpack-dep.zip
 pip install airsim==1.8.1 --no-build-isolation
 
 # 3. Force reinstall msgpack to reset the core
